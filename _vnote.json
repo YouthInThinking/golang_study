@@ -7,7 +7,10 @@
     "recycle_bin_folder": "_v_recycle_bin",
     "sub_directories": [
         {
-            "name": "第一章、go语言基础"
+            "name": "第一章、Go语言基础"
+        },
+        {
+            "name": "第二章、面向对象"
         }
     ],
     "tags": [
